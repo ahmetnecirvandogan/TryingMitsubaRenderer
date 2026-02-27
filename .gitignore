@@ -1,0 +1,21 @@
+# ── Dataset outputs (generated, not source code) ──────────────────────────
+dataset/
+
+# ── 3D Meshes (large binary files, distribute separately) ─────────────────
+cloth_meshes/
+
+# ── One-off render outputs ─────────────────────────────────────────────────
+*.png
+*.exr
+*.hdr
+
+# ── Python ────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+.venv/
+
+# ── macOS ─────────────────────────────────────────────────────────────────
+.DS_Store
