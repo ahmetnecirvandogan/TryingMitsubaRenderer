@@ -1,10 +1,10 @@
-{"file_name": "render_0000.png", "text": "a photorealistic 3D render of a matte wool scarf, physical rendering, detailed cloth folds"}
-{"file_name": "render_0001.png", "text": "a photorealistic 3D render of a matte wool scarf, physical rendering, detailed cloth folds"}
-{"file_name": "render_0002.png", "text": "a photorealistic 3D render of a matte wool scarf, physical rendering, detailed cloth folds"}
-{"file_name": "render_0003.png", "text": "a photorealistic 3D render of a shiny silk scarf, physical rendering, detailed cloth folds"}
-{"file_name": "render_0004.png", "text": "a photorealistic 3D render of a shiny silk scarf, physical rendering, detailed cloth folds"}
-{"file_name": "render_0005.png", "text": "a photorealistic 3D render of a matte wool scarf, physical rendering, detailed cloth folds"}
-{"file_name": "render_0006.png", "text": "a photorealistic 3D render of a shiny silk scarf, physical rendering, detailed cloth folds"}
-{"file_name": "render_0007.png", "text": "a photorealistic 3D render of a matte wool scarf, physical rendering, detailed cloth folds"}
-{"file_name": "render_0008.png", "text": "a photorealistic 3D render of a matte wool scarf, physical rendering, detailed cloth folds"}
-{"file_name": "render_0009.png", "text": "a photorealistic 3D render of a shiny silk scarf, physical rendering, detailed cloth folds"}
+{"file_name": "renders/render_0000.png", "conditioning_image": "conditioning/conditioning_0000.png", "ao_image": "ao/ao_0000.png", "text": "a photorealistic 3D render of a matte wool cloth, physical rendering, detailed fabric folds"}
+{"file_name": "renders/render_0001.png", "conditioning_image": "conditioning/conditioning_0001.png", "ao_image": "ao/ao_0001.png", "text": "a photorealistic 3D render of a matte wool cloth, physical rendering, detailed fabric folds"}
+{"file_name": "renders/render_0002.png", "conditioning_image": "conditioning/conditioning_0002.png", "ao_image": "ao/ao_0002.png", "text": "a photorealistic 3D render of a matte wool cloth, physical rendering, detailed fabric folds"}
+{"file_name": "renders/render_0003.png", "conditioning_image": "conditioning/conditioning_0003.png", "ao_image": "ao/ao_0003.png", "text": "a photorealistic 3D render of a shiny silk cloth, physical rendering, detailed fabric folds"}
+{"file_name": "renders/render_0004.png", "conditioning_image": "conditioning/conditioning_0004.png", "ao_image": "ao/ao_0004.png", "text": "a photorealistic 3D render of a matte wool cloth, physical rendering, detailed fabric folds"}
+{"file_name": "renders/render_0005.png", "conditioning_image": "conditioning/conditioning_0005.png", "ao_image": "ao/ao_0005.png", "text": "a photorealistic 3D render of a shiny silk cloth, physical rendering, detailed fabric folds"}
+{"file_name": "renders/render_0006.png", "conditioning_image": "conditioning/conditioning_0006.png", "ao_image": "ao/ao_0006.png", "text": "a photorealistic 3D render of a shiny silk cloth, physical rendering, detailed fabric folds"}
+{"file_name": "renders/render_0007.png", "conditioning_image": "conditioning/conditioning_0007.png", "ao_image": "ao/ao_0007.png", "text": "a photorealistic 3D render of a shiny silk cloth, physical rendering, detailed fabric folds"}
+{"file_name": "renders/render_0008.png", "conditioning_image": "conditioning/conditioning_0008.png", "ao_image": "ao/ao_0008.png", "text": "a photorealistic 3D render of a matte wool cloth, physical rendering, detailed fabric folds"}
+{"file_name": "renders/render_0009.png", "conditioning_image": "conditioning/conditioning_0009.png", "ao_image": "ao/ao_0009.png", "text": "a photorealistic 3D render of a matte wool cloth, physical rendering, detailed fabric folds"}
