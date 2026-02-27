@@ -1,13 +1,12 @@
-# ── Dataset outputs (generated, not source code) ──────────────────────────
-dataset/
+# ── Dataset outputs (generated data files, not the folder structure) ───────
+dataset/**/*.png
+dataset/**/*.exr
+dataset/**/*.hdr
+dataset/metadata.jsonl
 
 # ── 3D Meshes (large binary files, distribute separately) ─────────────────
-cloth_meshes/
-
-# ── One-off render outputs ─────────────────────────────────────────────────
-*.png
-*.exr
-*.hdr
+cloth_meshes/*.obj
+cloth_meshes/*.mtl
 
 # ── Python ────────────────────────────────────────────────────────────────
 __pycache__/
